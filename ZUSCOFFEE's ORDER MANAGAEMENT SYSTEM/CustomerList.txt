@@ -1,0 +1,25 @@
+ZC16*Kamalia Jamil*12/12/2022*B*Caramel Macchiato*2*23.50*C
+ZC17*Khadijah Saqifah*21/6/2022*F*Spaghetti Bolognese*2*25.00*O
+ZC31*Aliah Haifaa*2/10/2022*B*Double Chocolate Chip Frappe*3*46.50*O
+ZC01*Hazirah Mazlan*20/7/2022*B*Roasted Hazelnut Latte*3*32.85*C
+ZC33*Ali Samad*4/3/2022*B*French Vanilla Latte*4*47.80*C
+ZC48*Aisya Halim*26/8/2022*B*Pink Lemonade*2*15.30*O
+ZC10*Adrian Lim*12/12/2022*F*Double Chocolate Muffin*1*8.40*C
+ZC22*Khairunnisa*12/12/2022*F*Pandan Burnt Cheese Cake*1*14.50*C
+ZC31*Lim Kook Ming*9/1/2022*B*French Vanilla Chocolate*1*13.85*C
+ZC12*Ryan Ahmad*4/5/2022*B*Roasted Hazelnut Chocolate*2*27.70*O
+ZC86*Sanchana*19/8/2023*F*Strawberry Donut*3*14.05*C
+ZC91*Jannanii Murugan*10/2/2023*B*Australian Chocolate*3*40.80*C
+ZC02*Aisya Halim*8/11/2023*B*Green Tea Latte*1*10.50*C
+ZC62*Aliah Haifaa*27/7/2023*B*Caramel Macchiato*1*11.75*C
+ZC82*Yi Quan*1/8/2023*B*Cappuccino*1*10.75*C
+ZC25*Batrisya Azmin*10/10/2023*F*Summer Berries Cheese Cake*1*14.50*O
+ZC92*Hazeeq Aiman*21/6/2023*F*Banan Walnut Muffin*2*8.40*O
+ZC78*Nur Amalia*17/9/2023*B*Roasted Hazelnut Latte*1*13.85*O
+ZC11*Reshmeetha Kaspur*14/4/2023*B*French Vanilla Chocolate*1*11.95*C
+ZC35*Adrian Lim*1/8/2023*B*Australian Chocolate*1*13.60*C
+ZC46*Ziana Zaris*10/2/2023*B*Salted Caramel Latte*2*23.90*C
+ZC87*Danish Ahmad*2/1/2024*B*Double Chocolate Chip Frappe*3*46.50*O
+ZC99*Aliah Haifaa*5/1/2024*B*Java Chip Frappe*2*31.00*O
+ZC44*Ryan Ahmad*9/1/2024*F*Strawberry Donut*2*9.40*C
+ZC59*Dani Mikhail*14/1/2024*F*Summer Berries Cheese Cake*1*14.50*C
